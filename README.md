@@ -1,7 +1,7 @@
 # 21_Engineer_Top
 Robomaster Competition engineering robot embedded software code.
 
-![Engineer_blue](..\21_Engineer_Top\Image\Engineer_blue.jpg)
+![Engineer_blue](..\Image\Engineer_blue.jpg)
 
 [![Author](https://img.shields.io/badge/Author-BenjaminChen-blue.svg "Author")](https://github.com/cypypccpy "Author")
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
