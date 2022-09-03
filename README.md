@@ -1,7 +1,43 @@
 # 21_Engineer_Top
 Robomaster Competition engineering robot embedded software code.
 
+[![Author](https://img.shields.io/badge/Author-BenjaminChen-blue.svg "Author")](https://github.com/cypypccpy "Author")
+[![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+<br></br>
 
+## 内容列表
+
+- [背景](#背景)
+- [安装](#安装)
+- [用法](#用法)
+- [相关参数](#相关参数)
+  <br></br>
+
+## 背景
+
+Robomaster 机甲大师超级对抗赛工程机器人上层嵌入式控制代码，基于FreeRTOS实时操作系统与状态机处理。
+<br></br>
+
+## 安装
+
+- `STM32CubeMX 6.2.0`
+- `STM32CubeIDE 1.4.0`
+- `Keil uVision5`
+  <br></br>
+
+## 用法
+
+```bash
+# 打开 Keil uVision5
+# Open 选择 21_Engineer_Top 文件夹
+# 打开 MDK-ARM 文件夹
+# 打开 21_Engineer.uvprojx 文件
+```
+
+<br></br>
+
+## 相关参数
 
 ### Motor ID
 
